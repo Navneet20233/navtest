@@ -2,7 +2,7 @@ import React from 'react'
 
 function Gits() {
   return (
-    <div>Gits</div>
+    <div>Gits is gits</div>
   )
 }
 
